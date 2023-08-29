@@ -1,3 +1,5 @@
+# Database found from https://github.com/ilyankou/millionaire-console
+
 def get_question(n, t):
   return a[n][t]
 
