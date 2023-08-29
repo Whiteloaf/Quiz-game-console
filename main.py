@@ -1,6 +1,6 @@
 # Who Wants To Be A Millionaire 💰
 print('\n'
-"#### WELCOME TO 'WHO WANTS TO BE A MILLIONARE' ####"
+"#### WELCOME TO 'WHO WANTS TO BE A QUIZZILLIONARE' ####"
 '\n'
 )
 
