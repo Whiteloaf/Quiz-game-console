@@ -25,7 +25,7 @@ while n != 15:
   correct_format = False
 
   while not correct_format:
-    answer = input("\nWhat is your answer bich?")
+    answer = input("\nWhat is your answer?")
     if answer in alpha_lower or answer in alpha_upper:
       correct_format = True
     else:
@@ -55,4 +55,4 @@ print("\nFinal score was {score} out of 1500!".format(score=score))
 if score == 1500:
   print('\n You are officially a millionare!!!\n')
 else:
-  print('\nShut up poor bich stop crying! You are a failure and your mum hates you!\n')
+  print('\nShut up and stop crying! You are a failure and your parents hate you!\n')
